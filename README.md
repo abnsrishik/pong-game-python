@@ -1,7 +1,7 @@
 # Pong Game
 
 Two-player Pong built in Python using OOP architecture.
-Ball accelerates on every paddle hit — gets harder as the rally continues.
+Ball accelerates on every paddle hit — gets harder as the rally ,continues.
 
 ## Controls
 
